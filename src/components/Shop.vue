@@ -219,7 +219,7 @@ console.log(productsJson[0].data.GetShopProduct.data[0].name);
             <div
               class="p-1 sm:p-2 px-4 sm:px-8 border-black border-2 rounded-full grow text-center"
             >
-              {{ selectedCategory }}
+              {{ paginatedProducts()[currentActiveProduct].productCategory }}
             </div>
           </div>
           <div
