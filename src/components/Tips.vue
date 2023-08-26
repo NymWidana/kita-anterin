@@ -243,7 +243,7 @@ function closeSpecialTipsdtl() {
       </div>
     </div>
   </nav>
-  <div>
+  <div class="max-w-screen-xl mx-auto bg-white">
     <div class="m-6 md:m-12 mb-12 md:mb-24 md:flex md:gap-8 md:items-center">
       <div class="relative mb-4 md:mb-0">
         <button class="block" @click="openSpecialTipsdtl(currentST - 1)">

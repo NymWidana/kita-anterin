@@ -236,7 +236,7 @@ console.log(productsJson[0].data.GetShopProduct.data[0].name);
               >
                 {{ description }}
               </p>
-              <p class="mb-2 sm:mb-4">
+              <!-- <p class="mb-2 sm:mb-4">
                 {{
                   "min pemesanan : " +
                   paginatedProducts()[currentActiveProduct].minPemesanan
@@ -247,7 +247,7 @@ console.log(productsJson[0].data.GetShopProduct.data[0].name);
                   "kondisi : " +
                   paginatedProducts()[currentActiveProduct].kondisi
                 }}
-              </p>
+              </p> -->
             </div>
             <p class="sm:text-2xl md:text-4xl text-right font-tnr">
               {{
