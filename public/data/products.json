@@ -13,6 +13,8 @@
           {
             "name": "Pisang Raja",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buah ini memiliki banyak kandungan gizi seperti serat, protein, zat besi, vitamin c, dan folat. Manfaat dari mengonsumsi pisang raja yaitu mampu membantu menekan asam lambung, menjaga kesehatan ginjal, dan menjaga kesehatan mata ",
               "Simpan Pisang pada tempat terbuka dan tidak kedap udara"
@@ -82,6 +84,8 @@
           {
             "name": "Pisang Susu",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buah ini memiliki banyak kandungan gizi seperti serat, protein, zat besi, vitamin c, dan folat. Manfaat dari mengonsumsi pisang susu yaitu mampu membantu menekan asam lambung, menjaga kesehatan ginjal, dan menjaga kesehatan mata ",
               "Simpan Pisang pada tempat terbuka dan tidak kedap udara "
@@ -151,6 +155,8 @@
           {
             "name": "Pisang Mas",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buah ini memiliki banyak kandungan gizi seperti serat, protein, zat besi, vitamin c, dan folat. Manfaat dari mengonsumsi pisang mas yaitu mampu membantu menekan asam lambung, menjaga kesehatan ginjal, dan menjaga kesehatan mata ",
               "Simpan Pisang pada tempat terbuka dan tidak kedap udara "
@@ -220,6 +226,8 @@
           {
             "name": "Pir Century / Century Pear",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buah Pir kaya akan vitamin B dan C yang dapat membantu tubuh untuk mencegah sembelit serta meningkatkan daya tahan tubuh.",
               "Cuci bersih Pear, simpan di dalam wadah, dan letakkan didalam kulkas."
@@ -289,6 +297,8 @@
           {
             "name": "Pir Hijau / Green Pear",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buah Pir kaya akan vitamin B dan C yang dapat membantu tubuh untuk mencegah sembelit serta meningkatkan daya tahan tubuh.",
               "Cuci bersih Pear, simpan di dalam wadah, dan letakkan didalam kulkas."
@@ -358,6 +368,8 @@
           {
             "name": "Apel Fuji",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Nutrisi yang terkandung dalam buah apel diantaranya adalah karbohidrat, serat, viamin C, B9, K, dan E. Mengonsumi apel baik untuk menjaga berat badan tetap stabil, menurunkan kadar kolestrol, dan menjaga kadar gula darah.",
               "Cuci bersih Apel, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -427,6 +439,8 @@
           {
             "name": "Jambu Kristal / Crystal Guava",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kandungan nutrisi yang terdapat pada guava diantaranya adalah vitaminA, C, D, dan E. Nutrisi ini memiliki peran untuk dapat membantu tubuh menjaga kestabilan gula darah, mencegah penyakit kanker, dan meningkatkan produksi darah.",
               "Cuci bersih Guava, simpan di dalam wadah, dan letakkan didalam kulkas."
@@ -496,6 +510,8 @@
           {
             "name": "Jambu Biji / Guava",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kandungan nutrisi yang terdapat pada guava diantaranya adalah vitaminA, C, D, dan E. Nutrisi ini memiliki peran untuk dapat membantu tubuh menjaga kestabilan gula darah, mencegah penyakit kanker, dan meningkatkan produksi darah.",
               "Cuci bersih Guava, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -565,6 +581,8 @@
           {
             "name": "Mangga Harumanins / Mango Harumanis",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Salah satu buah favorit ini memiliki banyak manfaat untuk kesehatan tubuh diantaranya adalah kaya akan antioksidan, membantu meningkatkan imun, dan membantu tubuh menjaga imunitas. Nutrisi yang terkandung pada buah Mangga diantaranya adalah vitamin C, A, E, B5, dan banyak kandungan mineral.",
               "Cuci bersih Mangga, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -634,6 +652,8 @@
           {
             "name": "Belimbing Madu / Honey Star Fruit",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Belimbing kaya akan vitamin C, A, B9, B3, serta kaya akan kandungan mineral. Dengan mengkonsumsi buah belimbing dapat membantu menurunkan berat badan, mengontrol kadar gula darah, dan menjaga imunitas.",
               "Cuci bersih Belimbing, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -703,6 +723,8 @@
           {
             "name": "Apel Malang",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Nutrisi yang terkandung dalam buah apel diantaranya adalah karbohidrat, serat, viamin C, B9, K, dan E. Mengonsumi apel baik untuk menjaga berat badan tetap stabil, menurunkan kadar kolestrol, dan menjaga kadar gula darah.",
               "Cuci bersih Apel, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -772,6 +794,8 @@
           {
             "name": "Salak Pondoh / Snakefruit",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Dengan mengkonsumsi buah salah dapat membantu tubuh kita untuk mencegah kanker, mencegah diare, serta baik untuk dikonsumsi saat menjalankan program diet. Salak banyak mengandung vitamin A.",
               "Simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -841,6 +865,8 @@
           {
             "name": "Salak Bali / Snakefruit",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Dengan mengkonsumsi buah salah dapat membantu tubuh kita untuk mencegah kanker, mencegah diare, serta baik untuk dikonsumsi saat menjalankan program diet. Salak banyak mengandung vitamin A.",
               "Simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -903,6 +929,8 @@
           {
             "name": "Kucai",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kucai adalah saah satu sayuran yang memiliki nutrisi yang padat, yaitu terdiri dari protein, lemak, karbohidrat, serat, dan beberapa vitamin. Manfaat dari mengkonsumsi Kucai adalah mecegah kanker, menjaga kesehatan otak, dan dianggap mampu meredakan stres.",
               "Simpan Kucai didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -972,6 +1000,8 @@
           {
             "name": "Kubis Putih / Cabbage White",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kubis putih tergolong tinggi akan kandungan Vitamin C dan K. Kubis putih dapat membantu proses penyembuhan luka, meredakan peradangan, dan mencegah kanker.",
               "Kubis dapat disimpan dengan menggunakan kantung plastik longgar lalu letakkan di kulkas. Jika kubis masih utuh, maka dapat dibungkus menggunakan plastik wrap."
@@ -1041,6 +1071,8 @@
           {
             "name": "Strawberry",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kandungan nutrisi yang terdapat pada buah Strawberry diantaranya adalah vitamin C, kalium, folat, antosianin, dan zat antioksidan yang tinggi. Nutrisi tersebut mampu membantu tubuh untuk menjaga kesehatan otot, menangkal radikal bebas, dan menahan nafsu makan .",
               "Simpan Strawberry didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -1110,6 +1142,8 @@
           {
             "name": "Semangka / Watermelon",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buah Semangka memiliki kandungan air yang tinggi, selain itu buah ini juga mengandung berbagai vitamin diantaranya vitamin A, vitamin B1, vitamin B2, vitamin C. Nutrisi tersebut baik untuk menjaga kesehatan perncernaan dan mencegah dehidrasi .",
               "Cuci bersih Semangka, simpan di dalam wadah, dan lettakan didalam kulkas.",
@@ -1180,6 +1214,8 @@
           {
             "name": "Melon",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Melon mengandung vitamin A dan betakaroten yang tinggi yang baik untuk menjaga kesehatan mata, kesehatan jantung, dan kesehatan pencernaan.",
               "Cuci bersih Melon, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -1249,6 +1285,8 @@
           {
             "name": "Nanas / Pineapple",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buah bermahkota ini kaya akan kandungan vitamin C yange berperan sebagai antioksidan bagi tubuh. Selain itu dengan mengonsumsi buah Nanas dapat meningkatkan imun tubuh, menjaga kesehatan pencernaan, dan dapat membantu menurunkan berat badan .",
               "Kupas dan cuci bersih Nanas. simpan di dalam wadah, dan letakkan dalam kulkas."
@@ -1318,6 +1356,8 @@
           {
             "name": "Pisang Cavendish / Banana Cavendish",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buah ini memiliki banyak kandungan gizi seperti serat, protein, zat besi, vitamin c, dan folat. Manfaat dari mengonsumsi pisang cavendish yaitu mampu membantu menekan asam lambung, menjaga kesehatan ginja, dan menjaga kesehatan mata .",
               "Simpan Pisang pada tempat terbuka dan tidak kedap udara."
@@ -1387,6 +1427,8 @@
           {
             "name": "Buah Naga Merah / Red Dragon Fruit",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buah Naga Merah kaya akan vitamin C, vitamin B2, dan B1 yang dapat membantu menjaga kesehatan usus, kesehatan tulang, membantu pembentukan kolagen, dan melindungi tubuh dari radikal bebas.",
               "Cuci bersih Buah Naga, simpah di dalam wadah, dan lettakan didalam kulkas."
@@ -1456,6 +1498,8 @@
           {
             "name": "Sunkist",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buah jeruk sangat identik dengan vitaminC. Dengan mengonsumsi 1 buah jeruk yang berukuran besar sudah mencukupi kebutuhan tubuh untuk vitamin C. Selain itu kandungan vitamin C pada jeruk juga baik untuk anemia, kesehatan jantung, ginjal, dan antioksidan",
               "Cuci bersih Jeruk Sunkist, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -1525,6 +1569,8 @@
           {
             "name": "Pepaya California / Papaya California",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Papaya California mengandung vitamin C dan A yang bermanfaat sebagai antioksidan yang berguna untuk menangkal radikal bebas yang menjaga sistem kekebalan tubuh dan mencegah tubuh dari berbagai macam penyakit.",
               "Cuci bersih Papaya California, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -1594,6 +1640,8 @@
           {
             "name": "Alpukat / Avocado",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Alpukat banyak mengandung nutrisi didalamnya, seperti magnesium, folat, lutein, kalium, dan berbagai vitamin termasuk vitamin C, A, B, K, dan E. Kandungan asam folat yang tinggi pada alpukat juga membuat buah satu ini mampu mengurangi resiko beberapa jenis kanker, seperti pankreas, lambung, dan serviks.",
               "Cuci bersih Alpukat, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -1663,6 +1711,8 @@
           {
             "name": "Lemon Import",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Lemon mengandung beragam nutrisi seperti vitamin A, vitamin B6, vitamin C, fosfor, magnesium, zinc, dan berbagai jenis antioksidan, seperti hesperidin, diosmin, dan eriocitrin yang menjadikannya baik untuk kesehatan, mulai dari meningkatkan daya tahan tubuh hingga mencegah penyakit jantung.",
               "Cuci bersih Lemon Import, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -1732,6 +1782,8 @@
           {
             "name": "Lemon Local",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Lemon mengandung vitamin C yang sangat tinggi dimana Vitamin C ini merupakan senyawa oksidan yang dapat menjaga kesehatan dan mengatasi berbagai macam penyakit, dengan meningkatkan sistem kekebalan tubuh.",
               "Cuci bersih Lemon Lokal, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -1801,6 +1853,8 @@
           {
             "name": "Jeruk Nipis / Lime",
             "productCategory": "Fruits",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Jeruk nipis dikenal sebagai herbal alami yang mengandung asam sitrat, kalsium, fosfor, besi dan vitamin A, B1, dan C yang dapat menghilangkan sumbatan vital energi, obat batuk, peluruh dahak (mukolitik), peluruh kencing (diuretik) dan keringat, serta membantu proses pencernaan.",
               "Cuci bersih Jeruk Nipis, simpan di dalam wadah, dan lettakan didalam kulkas."
@@ -1870,6 +1924,8 @@
           {
             "name": "Telur Ayam / Chicken Eggs",
             "productCategory": "Others",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Telur ayam negeri memiliki kandungan protein tinggi dan kalori rendah sehingga sangat baik bagi anda yang sedang berusaha menurunkan berat badan. Selain itu, penelitian terbaru menemukan bukti bahwa telur ayam tinggi akan lutein. Zat ini bertanggungjawab untuk penglihatan yang jelas dan tajam.",
               "Cara terbaik untuk menjaga telur tetap segar dan tahan lama ialah dengan dibiarkan di karton/wadah dan menyimpannya sesegera mungkin ke kulkas setelah dibeli."
@@ -1939,6 +1995,8 @@
           {
             "name": "Telur Ayam Kampung / Free Range Chicken Eggs",
             "productCategory": "Others",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Telur ayam kampung mengandung vitamin D 3-6 kali lebih banyak daripada ayam negeri. Vitamin D tersebut bisa membantu memperkuat tulang dan gigi. Selain itu, protein pada ayam telur kampung sangat berguna untuk meningkatkan massa otot sehingga menjadikan badan terjaga dan tetap profesional.",
               "Cara terbaik untuk menjaga telur tetap segar dan tahan lama ialah dengan dibiarkan di karton/wadah dan menyimpannya sesegera mungkin ke kulkas setelah dibeli."
@@ -2008,6 +2066,8 @@
           {
             "name": "Telur Bebek / Duck Eggs",
             "productCategory": "Others",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Telur bebek mengandung beragam vitamin dan mineral, khususnya vitamin B12 yang dibutuhkan untuk pembentukan sel darah merah, sintesis DNA, dan menjaga fungsi saraf. ​​​​​​​",
               "Cara terbaik untuk menjaga telur tetap segar dan tahan lama ialah dengan dibiarkan di karton/wadah dan menyimpannya sesegera mungkin ke kulkas setelah dibeli."
@@ -2077,6 +2137,8 @@
           {
             "name": "Tahu / Tofu",
             "productCategory": "Others",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "ahu memiliki kandungan nutrisi yang melimpah. Tahu tercatat merupakan sumber protein tinggi, mineral, zat besi, kalsium, vitamin B1, magnesium, tembaga, seng, dan selenium yang tentunya sangat baik untuk tubuh, menurunkan resiko penyakit jantung, obesitas, hingga kanker payudara.",
               "Cuci segera tahu hingga bersih, kukus, simpan di wadah kedap udara, dan masukkan ke dalam kulkas."
@@ -2146,6 +2208,8 @@
           {
             "name": "Tempe / Tempeh",
             "productCategory": "Others",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Tempe mengandung lemak yang lebih sedikit, karbohidrat, serat, kalsium, fosfor, besi, tiamin, riboflavin, niacin, asam pantotenat, piridoksin, biotin, vitamin B12, dan retinol yang tinggi dan menjadi sumber protein pengganti daging.",
               "Biarkan tempe mentah disimpan tanpa dipotong, simpan di wadah kedap udara, kemudian simpan didalam kulkas (hindari penyimpanan dalam freezer)."
@@ -2215,6 +2279,8 @@
           {
             "name": "Kemangi / Basil",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Vitamin A, vitamin B, Vitamin C, Vitamin K, zinc, dan kalium yang terdapat di dalam Basil mampu membantu mengatasi jerawat, mencegah kanker, dan mengatasi gula darah.",
               "Simpan Basil didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -2284,6 +2350,8 @@
           {
             "name": "Mint",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Daun Mint memiliki aroma dan rasa yang khas. Manfaat rajin mengonsumsi daun mint diataranya adalah mampu meredakan gatal dan alergi pada kulit, menjaga kesehatan gigi dan mulut, serta dapat meredakan kram pada saat menstruasi.",
               "Simpan Daun Mint didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -2353,6 +2421,8 @@
           {
             "name": "Jahe / Ginger",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kandungan nutrisi yang terdapat pada Jahe diantaranya adalah vitamin C, potasioum, energi, karbohidrat, dan protein. Manfaat mengonsumsi jahe bagi kesehatan yaitu kaya akan antioksidan, meredakan nyeri, mengendalikan kadar gula darah diabetes.",
               "Simpan Jahe didalam plastik atau wadah yang kering dan terbuka."
@@ -2422,6 +2492,8 @@
           {
             "name": "Kunyit / Turmeric",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Rempah berwarna kuning ini banyak mengandung nutrisi vitamin C dan mineral. Manfaat mengonsumsi Kunyit bagi kesehatan diantaranya adalah mengandung antioksidan dan antiperadangan, memperlambat penyebaran dan pertumbuhan tumor, memperlancar sistem pencernaan.",
               "Simpan Kunyit didalam plastik atau wadah yang kering dan terbuka."
@@ -2484,6 +2556,8 @@
           {
             "name": "Lengkuas / Galangal",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Lengkuas merupakan salah satu penyedap rasa organik yang memiliki manfaat sebagai anti-tumor, anti-radang, dan menangkal radikal bebas.",
               "Simpan Lengkuas didalam plastik atau wadah yang kering dan terbuka."
@@ -2553,6 +2627,8 @@
           {
             "name": "Sereh / Lemongrass",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Selain memiliki aroma yang khas Sereh juga memiliki banyak manfaat bagi kesehatan tubuh diantaranya sebagai antioksidan, antimikroba, antiinflamasi, serta meringankan gejala PMS.",
               "Simpan Sereh didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -2622,6 +2698,8 @@
           {
             "name": "Daun Salam / Bay Leaf",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Daun Salam juga salah satu penyedap masakan organik. Kandungan yang terdapat di dalam Daun Salam diantaranya adalah vitamin A, vitamin C, vitamin B6.",
               "Simpan Daun Salam didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -2691,6 +2769,8 @@
           {
             "name": "Daun Jeruk / Lime Leaf",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Selain memiliki aroma yang khas Daun Jeruk juga memiliki banyak manfaat bagi kesehatan diantaranya mengurangi inflamasi, menjaga kesehatan mulut, menjaga kesehatan rambut, dan membasmi kutu rambut.",
               "Simpan Daun Jeruk didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -2760,6 +2840,8 @@
           {
             "name": "Bawang Perai / Leek",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kandungan nutrisi yang terdapat pada Daun Bawang Prei diantaranya adalah kaya akan vitamin K, vitamin C, vitamin A, mineral, dan kalsium. Manfaat dari mengonsumsi Daun Bawang prei yaitu dapat membantu menjaga daya tahan tubuh, menjaga kesehatan mata, serta mencegah anemia.",
               "Simpan Daun Bawang Prei didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -2829,6 +2911,8 @@
           {
             "name": "Ayam Utuh / Whole Chicken",
             "productCategory": "Meats",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Nutrisi yang terdapat pada Daging Ayam diantaranya vitaminC, B1, vitamin D, vitamin B-12, vitamin A, vitamin K, dan folat. Manfaat dari mengkonsumsi Daging Ayam diantaranya adalah membantu pembentukan otot, meningkatkan metabolisme tubuh, mengatur kadar kolestelor, dan mampu menghilangkan stres.",
               "Simpan Daging Ayam didalam plastik atau wadah yang kering, bersih, dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -2898,6 +2982,8 @@
           {
             "name": "Fillet Paha Ayam Skinless / Chicken Thigh Fillet",
             "productCategory": "Meats",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Nutrisi yang terdapat pada Daging Ayam diantaranya vitaminC, B1, vitamin D, vitamin B-12, vitamin A, vitamin K, dan folat. Manfaat dari mengkonsumsi Daging Ayam diantaranya adalah membantu pembentukan otot, meningkatkan metabolisme tubuh, mengatur kadar kolestelor, dan mampu menghilangkan stres.",
               "Simpan Daging Ayam didalam plastik atau wadah yang kering, bersih, dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -2960,6 +3046,8 @@
           {
             "name": "Fillet Dada Ayam Skinless / Chicken Breast Fillet",
             "productCategory": "Meats",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Nutrisi yang terdapat pada Daging Ayam diantaranya vitaminC, B1, vitamin D, vitamin B-12, vitamin A, vitamin K, dan folat. Manfaat dari mengkonsumsi Daging Ayam diantaranya adalah membantu pembentukan otot, meningkatkan metabolisme tubuh, mengatur kadar kolestelor, dan mampu menghilangkan stres.",
               "Simpan Daging Ayam didalam plastik atau wadah yang kering, bersih, dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -3029,6 +3117,8 @@
           {
             "name": "Sayap Ayam / Chicken Wing",
             "productCategory": "Meats",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Nutrisi yang terdapat pada Daging Ayam diantaranya vitaminC, B1, vitamin D, vitamin B-12, vitamin A, vitamin K, dan folat. Manfaat dari mengkonsumsi Daging Ayam diantaranya adalah membantu pembentukan otot, meningkatkan metabolisme tubuh, mengatur kadar kolestelor, dan mampu menghilangkan stres.",
               "Simpan Daging Ayam didalam plastik atau wadah yang kering, bersih, dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -3098,6 +3188,8 @@
           {
             "name": "Paha Ayam Utuh / Chicken Leg",
             "productCategory": "Meats",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Nutrisi yang terdapat pada Daging Ayam diantaranya vitaminC, B1, vitamin D, vitamin B-12, vitamin A, vitamin K, dan folat. Manfaat dari mengkonsumsi Daging Ayam diantaranya adalah membantu pembentukan otot, meningkatkan metabolisme tubuh, mengatur kadar kolestelor, dan mampu menghilangkan stres.",
               "Simpan Daging Ayam didalam plastik atau wadah yang kering, bersih, dan kedap udara. Letakkan wadah tersebut dalam kulkas tanpa mencuci daging terlebih dahulu."
@@ -3167,6 +3259,8 @@
           {
             "name": "Bawang Merah Kupas / Shallot Peeled",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Bawang merah kupas digunakan sebagai salah satu bumbu masak utama. Bawang merah kupas kaya akan Vitamin A, Vitamin B1, Vitamin B2, Vitamin B3, dan Vitamin C.",
               "Simpan bawang merah kupas dalam wadah tertutup dan masukkan ke kulkas."
@@ -3236,6 +3330,8 @@
           {
             "name": "Bawang Putih Kupas / Garlic Peeled",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Bawang putih kupas digunakan secara luas sebagai penyedap dalam masakkan. Bawang putih kupas kaya akan Vitamin C dan Vitamin B6.",
               "Simpan bawang putih kupas dalam wadah tertutup dan masukkan ke kulkas."
@@ -3305,6 +3401,8 @@
           {
             "name": "Bawang Bombay / Onion",
             "productCategory": "Herbs",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Bawang bombay digunakan secara luas sebagai penyedap dalam masakkan. Bawang bombay kaya akan Vitamin C dan Vitamin B6.",
               "Untuk menjaga kualitas bawang simpan di tempat yang kering atau suhu ruangan."
@@ -3374,6 +3472,8 @@
           {
             "name": "Seledri / Celery",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Seledri memiliki kandungan seperti Vitamin C, B, A, dan zat besi. Nutrisi dari seledri mampu menghilangkan racun dalam tubuh dan baik menjada gula darah.",
               "Agar tidak cepat membusuk, bungkus seledri dengan tisu/kertas makan serta jauhkan dari sayuran dengan rasa kuat seperti bawang karena dapat mempengaruhi rasanya."
@@ -3443,6 +3543,8 @@
           {
             "name": "Seledri Stick / Celery Stick",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Batang seledri memiliki kandungan seperti Vitamin C, B, A, B6, K, dan zat besi. Nutrisi dari seledri mampu menghilangkan racun dalam tubuh dan baik menjada gula darah.",
               "Agar tidak cepat membusuk, bungkus batang seledri dengan tisu/kertas makan serta jauhkan dari sayuran dengan rasa kuat seperti bawang karena dapat mempengaruhi rasanya."
@@ -3512,6 +3614,8 @@
           {
             "name": "Asparagus",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Asparagus memiliki banyak manfaat untuk kesehatan. Mulai dari menyehatkan sistem pencernaan, mendukung perkembangan janin, menjaga kesehatan jantung, serta tinggi antioksidan.",
               "Simpan asparagus di wadah berisi air dan simpan di dalam kulkas. Jika ingin lebih awet lagi, tutup bagian ujungnya dengan plastik."
@@ -3581,6 +3685,8 @@
           {
             "name": "Baby Buncis / Baby Green Bean",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buncis mengandung Vitamin C, K, dan A yang tinggi. Berdasarkan kandungan gizinya buncis dapat menjaga kesehatan jantung, menyehatkan saluran pencernaan, dan memperkuat sistem kekebalan tubuh.",
               "Buncis dapat disimpan dalam plastik dan masukkan ke dalam kulkas."
@@ -3650,6 +3756,8 @@
           {
             "name": "Wortel Mini / Carrot Baby",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Wortel menganduk banyak vitamin A, B, C, E, dan K. Wortel juga dapat menjaga kesehatan mata, memperkuat tulang, dan menurunkan kolesterol.",
               "Bersihkan wortel terlebih dahulu dan setelah itu bungkus menggunakan kertas atau plastik. Simpan kedalam kulkas."
@@ -3719,6 +3827,8 @@
           {
             "name": "Jagung Muda / Baby Corn",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Jagung muda mengandung Vitamin A, C, B12, dan B5. Kandungan ini mampu menurunkan berat badan karena rendah lemak serta dapat membuat kulit wajah menjadi lebih cerah.",
               "Jagung dapat disimpan dengan bungkus aluminium foil dan masukkan ke dalam wadah kedap udara. Setelah itu masukkan kedalam kulkas."
@@ -3788,6 +3898,8 @@
           {
             "name": "Kentang Mini / Baby Potato",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kentang mengandung Vitamin C dan B6. Kandungan ini bisa membantu menyembuhkan luka dan meningkatkan kekebalan tubuh.",
               "Simpan kentang di tempat kering dan jauhkan dari sinar matahari. Serta jangan ditaruh di wadah yang tertutup rapat."
@@ -3857,6 +3969,8 @@
           {
             "name": "Selada Baby Romaine / Baby Romaine Lettuce",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Selada memiliki banyak manfaat bagi tubuh, seperti meningkatkan sistem imun, berpotensi mencegah kanker, menangkal radikal bebas, dan menurunkan berat badan.",
               "Simpan selada di wadah berisi air hingga menutupi seluruh bagian selada. Kemudian, tutup dan simpan di dalam kulkas."
@@ -3926,6 +4040,8 @@
           {
             "name": "Buncis / Green Beans",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Buncis mengandung Vitamin C, K, dan A yang tinggi. Berdasarkan kandungan gizinya buncis dapat menjaga kesehatan jantung, menyehatkan saluran pencernaan, dan memperkuat sistem kekebalan tubuh.",
               "Buncis dapat disimpan dalam plastik dan masukkan ke dalam kulkas."
@@ -3995,6 +4111,8 @@
           {
             "name": "Paprika Hijau / Green Bell Pepper",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Tak hanya dapat diolah menjdi berbagai jenis hidangan lezat, paprika juga banyak kandungan nutrisi seperti Vitamin A, C, E, B, K, dan kandungan antioksidan.",
               "Untuk meyimpannya, bungkus paprika dengan kantung plastik kering longgar lalu tempatkan di laci kulkas."
@@ -4064,6 +4182,8 @@
           {
             "name": "Wortel Import / Carrot Import",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Wortel menganduk banyak vitamin A, B, C, E, dan K. Wortel juga dapat menjaga kesehatan mata, memperkuat tulang, dan menurunkan kolesterol.",
               "Bersihkan wortel terlebih dahulu dan setelah itu bungkus menggunakan kertas atau plastik. Simpan kedalam kulkas."
@@ -4133,6 +4253,8 @@
           {
             "name": "Wortel Local / Carrot Local",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Wortel menganduk banyak vitamin A, B, C, E, dan K. Wortel juga dapat menjaga kesehatan mata, memperkuat tulang, dan menurunkan kolesterol.",
               "Bersihkan wortel terlebih dahulu dan setelah itu bungkus menggunakan kertas atau plastik. Simpan kedalam kulkas."
@@ -4202,6 +4324,8 @@
           {
             "name": "Selada Keriting Hijau / Lettuce Curly Green",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Selada memiliki banyak manfaat bagi tubuh, seperti meningkatkan sistem imun, berpotensi mencegah kanker, menangkal radikal bebas, dan menurunkan berat badan.",
               "Simpan selada di wadah berisi air hingga menutupi seluruh bagian selada. Kemudian, tutup dan simpan di dalam kulkas."
@@ -4271,6 +4395,8 @@
           {
             "name": "Frisee Lettuce",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Mizuna memiliki kandungan nutrisi diantaranya seperti vitamin A, vitamin K, dan vitamin C. Mizuna baik dikonsumsi untuk membantu proses pembekuan darah dan sebagai antioksidan",
               "Simpan Selada di wadah berisi air hingga menutupi seluruh bagian selada. Kemudian, tutup dan simpan di dalam kulkas."
@@ -4340,6 +4466,8 @@
           {
             "name": "Selada Ice Berg / Ice Berg Lettuce",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Selada memiliki banyak manfaat bagi tubuh, seperti meningkatkan sistem imun, berpotensi mencegah kanker, menangkal radikal bebas, dan menurunkan berat badan.",
               "Simpan selada di wadah berisi air hingga menutupi seluruh bagian selada. Kemudian, tutup dan simpan di dalam kulkas."
@@ -4409,6 +4537,8 @@
           {
             "name": "Kale Curly",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kandungan nutrisi kale berupa vitamin A, C, dan K. Kandungan ini dapat menjaga kecantikan kulit, membantu untuk menurunkan berat badan, dan menjaga kesehatan tulang.",
               "Simpan kale didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -4478,6 +4608,8 @@
           {
             "name": "Kale Straight",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kandungan nutrisi kale berupa vitamin A, C, dan K. Kandungan ini dapat menjaga kecantikan kulit, membantu untuk menurunkan berat badan, dan menjaga kesehatan tulang.",
               "Simpan kale didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -4547,6 +4679,8 @@
           {
             "name": "Selada Lolo Rosso / Lolo Rosso Lettuce",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Selada memiliki banyak manfaat bagi tubuh, seperti meningkatkan sistem imun, berpotensi mencegah kanker, menangkal radikal bebas, dan menurunkan berat badan.",
               "Simpan selada di wadah berisi air hingga menutupi seluruh bagian selada. Kemudian, tutup dan simpan di dalam kulkas."
@@ -4616,6 +4750,8 @@
           {
             "name": "Jamur Kancing / Champignon Mushroom",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Memiliki rasa gurih dan bisa dicampurkan ke berbagai hidangan, jamur champignon atau jamur kancing dapat menurunkan resiko kanker karena kandungan vitamin C.",
               "Jamur bisa disimpan di dalam kulkas dan hindari meletakkan jamur berdekatan dengan makanan berbau tajam."
@@ -4685,6 +4821,8 @@
           {
             "name": "Jamur Enoki / Enoki Mushroom",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Jamur enoki memiliki manfaat bagi kesehatan, mulai dari menjaga kekebalan tubuh terhadap penyakit sampai berpotensi melawan kanker. Kandungan gizi jamur enoki yaitu Vitamin B3, B1, B2, B12, dan B6.",
               "Simpan jamur enoki di dalam sebuah wadah dan masukkan ke dalam kulkas."
@@ -4754,6 +4892,8 @@
           {
             "name": "Jamur King Oyster / King Oyster Mushroom",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Jamur tiram kaya akan Vitamin A, D, B4, dan B9. Kandungan nutrisi yang ada dapat mengurangi risiko terkena diabetes dan menurunkan berat badan berlebih.",
               "Selain dibungkus plastik, jamur tiram juga bisa disimpan di wadah kedap udara dengan dialasi tisu. Setelah itu simpan di kulkas atau di suhu ruangan."
@@ -4823,6 +4963,8 @@
           {
             "name": "Jamur Tiram / Oyster Mushroom",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Jamur tiram kaya akan Vitamin A, D, B4, dan B9. Kandungan nutrisi yang ada dapat mengurangi risiko terkena diabetes dan menurunkan berat badan berlebih.",
               "Selain dibungkus plastik, jamur tiram juga bisa disimpan di wadah kedap udara dengan dialasi tisu. Setelah itu simpan di kulkas atau di suhu ruangan."
@@ -4892,6 +5034,8 @@
           {
             "name": "Jamur Portabello / Portabello Mushroom",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Jamur portabello dapat memberikan berbagai manfaat untuk kesehatan, seperti membantu menurunkan berat badan, kaya vitamin B, menurunkan resiko kanker, mengandung mineral penting dan cocok sebagai pengganti daging yang lebih sehat. ",
               "Jamur bisa disimpan di dalam kulkas dan hindari meletakkan jamur berdekatan dengan makanan berbau tajam."
@@ -4961,6 +5105,8 @@
           {
             "name": "Kentang / Potato",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kentang mengandung Vitamin C dan B6. Kandungan ini bisa membantu menyembuhkan luka dan meningkatkan kekebalan tubuh.",
               "Simpan kentang di tempat kering dan jauhkan dari sinar matahari. Serta jangan ditaruh di wadah yang tertutup rapat."
@@ -5030,6 +5176,8 @@
           {
             "name": "Kubis Ungu / Cabbage Purple",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kaya akan Vitamin C, K, B6, dan A. Kubis ungu juga bermanfaat untuk pengurangan peradangan, jantung yang lebih sehat, tulang yang lebih kuat, fungsi usus yang lebih baik, dan menurunkan risiko kanker.",
               "Kubis dapat disimpan dengan menggunakan kantung plastik longgar lalu letakkan di kulkas. Jika kubis masih utuh, maka dapat dibungkus menggunakan plastik wrap."
@@ -5092,6 +5240,8 @@
           {
             "name": "Selada Radicchio / Radicchio Rosso Lettuce",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Selada memiliki banyak manfaat bagi tubuh, seperti meningkatkan sistem imun, berpotensi mencegah kanker, menangkal radikal bebas, dan menurunkan berat badan.",
               "Simpan selada di wadah berisi air hingga menutupi seluruh bagian selada. Kemudian, tutup dan simpan di dalam kulkas."
@@ -5161,6 +5311,8 @@
           {
             "name": "Tomat Ceri Merah / Cherry Red Tomato",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Tomat merupakan sumber Vitamin C, K1, dan B9. Tomat sangat baik untuk kesehatan jantung, meningkatkan penglihatan, dan baik untuk kesehatan kulit dan awet muda.",
               "Simpan tomat di suhu ruangan dan pisahkan tomat dengan bahan makanan lainnya."
@@ -5230,6 +5382,8 @@
           {
             "name": "Tomat Merah / Red Tomato",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Tomat merupakan sumber Vitamin C, K1, dan B9. Tomat sangat baik untuk kesehatan jantung, meningkatkan penglihatan, dan baik untuk kesehatan kulit dan awet muda.",
               "Simpan tomat di suhu ruangan dan pisahkan tomat dengan bahan makanan lainnya."
@@ -5299,6 +5453,8 @@
           {
             "name": "Daun Bawang / Spring Onion",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Daun bawang juga sering kali menjadi salah satu bahan untuk masakan karena dapat menambah cita rasa. Daun bawang mengandung Vitamin C, B1, B2, B3, B5, B6, dan A. Selain itu, daun bawang juga dapat menurunkan kadar kolesterol.",
               "Simpan dalam plastik dan letakkan di kulkas."
@@ -5368,6 +5524,8 @@
           {
             "name": "Jagung Manis / Sweet Corn",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Jagung mengandung Vitamin A, C, B, dan E. Kandungan ini mampu mengontrol kadar gula darah dan menjaga kesehatan jantung.",
               "Jagung dapat disimpan dengan bungkus aluminium foil dan masukkan ke dalam wadah kedap udara. Setelah itu masukkan kedalam kulkas."
@@ -5437,6 +5595,8 @@
           {
             "name": "Selada Romaine / Romaine Lettuce",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Selada memiliki banyak manfaat bagi tubuh, seperti meningkatkan sistem imun, berpotensi mencegah kanker, menangkal radikal bebas, dan menurunkan berat badan.",
               "Simpan selada di wadah berisi air hingga menutupi seluruh bagian selada. Kemudian, tutup dan simpan di dalam kulkas."
@@ -5506,6 +5666,8 @@
           {
             "name": "English Spinach / Horenso",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kandungan nutrisi bayam berupa vitamin A, C, E, dan K. Kandungan ini dapat mencegah kankert, membantu untuk menurunkan berat badan, dan menjaga kesehatan tulang.",
               "Simpan bayam didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -5575,6 +5737,8 @@
           {
             "name": "Kembang Kol / Cauliflower",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kembang kol adalah salah satu sayuran yang biasa dimasak dalam sayur sup. Sayuran ini memiliki beberapa nutrisi penting bagi Ibu hamil seperti folat, zat besi, vitamin C, vitamin B.",
               "Bungkus Kembang Kol dengan tisu tanpa mencuci sayurnya dengan air terlebih dahulu."
@@ -5644,6 +5808,8 @@
           {
             "name": "Brokoli / Broccoli",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Brokoli adalah salah satu sayuran yang memiliki banyak manfaat baik bagi tubuh seperti dapat mencegah kanker, menjaga kesehatan jantung, tulang, dan mata. Kandungan nutrisi yang terdapat di dalam sayur brokoli diantaranya adalah vitamin C, vitamin K, zat besi, dan kalsium.",
               "Bungkus Brokoli dengan tisu/kertas tanpa mencuci sayurannya dengan air terlebih dahulu."
@@ -5713,6 +5879,8 @@
           {
             "name": "Timun Lokal / Cucumber Local",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Timun Lokal memiliki banyak kandungan air, mineral, vitamin B12, vitamin B6, dan vitamin C. kandungan ini baik untuk kesehatan kulit wajah.",
               "Simpan Timun Lokal didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -5782,6 +5950,8 @@
           {
             "name": "TImun Jepang Kyuri / Cucumber Kyuri",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Timun Kyuri memiliki tekstur yang renyah dan kadar air yang lebih sedikit. Kandungan nutrisi yang terdapat pada Timun Kyuri diantaranya vitamin A, vitamin B, Vitamin C, kalium.",
               "Simpan Timun Kyuri didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -5851,6 +6021,8 @@
           {
             "name": "Zuchini",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kandungan nutrisi yang terdapat pada Zuchini diantaranya adalah vitamin C, vitamin E, vitamin K, dan vitamin B9. Manfaat mengonsumsi zuchini untuk kesehatan yaitu dapat membantu melancarkan pencernaan dan membantu menjaga kadar gula darah. ",
               "Simpan Zuchini didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -5920,6 +6092,8 @@
           {
             "name": "Terong Ungu / Eggplant",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Terong memiliki kandungan nutrisi vitamin C, vitamin E, vitamin K, zat besi yang dapat membantu mencegah anemia, menjaga kesehatan tulang, dan mampu mengurangi risiko penyakit jantung. ",
               "Simpan Terong didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -5989,6 +6163,8 @@
           {
             "name": "Beetroot / Buah Bit",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Beetroot mengandung berbagai nutrisi penting diantara lain tinggi akan serat, vitamin B9, manganese, pottasium, besi, dan vitamin C. Beetroot juga memiliki kandungan kalori dan kadar lemak yang sangat rendah. Maka dari itu beetroot sangat cocok dikonsumsi pada saat program penurunan berat badan. ",
               "Simpan Beetroot didalam kantong plastik yang berlubang dan kering. Letakkan kantong plastik tersedut dalam kulkas."
@@ -6058,6 +6234,8 @@
           {
             "name": "Sayur Hijau / Green Vegetables",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Sayuran yang sering diolah menjadi tumisan ini memiliki beberapa kandungan nutrisi yang dapat membantu proses detoksifikasi dan berperan sebagai antioksidan. Nutrisi tersebut diantaranya adalah vitamin A, vitamin C, vitamin K, serat, kalsium, magnesium.",
               "Simpan Sayur Hijau didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -6127,6 +6305,8 @@
           {
             "name": "Pokchoy",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Pokchoy mengandung tinggi vitamin A dan vitamin C. Kedua vitamin ini beperan penting sebagai antioksidan dalam tubuh.",
               "Simpan Pokchoy didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -6196,6 +6376,8 @@
           {
             "name": "Sawi Putih / Chinese Cabbage",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Sawi putih adalah salah satu sayuran yang memiliki kandungan serat dan air yang cukup tinggi. selain itu sawi putih juga memiliki kandungan kalsium dan vitamin C yang mampu membantu menguatkan gigi dan tulang serta mampu membantu mengatasi anemia.",
               "Simpan Sawi Putih didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -6265,6 +6447,8 @@
           {
             "name": "Bayam Akar / Green Spinach",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kaya akan vitamin A, vitamin B, vitamin C, vitamin E, magnesium, dan zat besi dengan mengonsumsi sayur bayam dapat membantu meredakan peradangan, mencegah anemia, dan membantu menjaga kesehatan mata .",
               "Simpan Bayam didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -6334,6 +6518,8 @@
           {
             "name": "Bayam Potong / Green Spinach",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kaya akan vitamin A, vitamin B, vitamin C, vitamin E, magnesium, dan zat besi dengan mengonsumsi sayur bayam dapat membantu meredakan peradangan, mencegah anemia, dan membantu menjaga kesehatan mata .",
               "Simpan bayam didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -6403,6 +6589,8 @@
           {
             "name": "Tauge / Bean Sprout",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Sayur tauge banyak mengandung kandungan nutrisi diantaranya vitamin B, vitamin C, vitamin K, folat, dan zat besi. Kandungan nutrisi tersebut dapat membantu melancarkan pencernaan, mengontorl kadar gula dalam darah, dan meningkatkan imunitas tubuh.",
               "Simpan tauge didalam plastik atau wadah yang kering, alasi plastik atau wadah dengan tisu atau koran. Letakkan wadah tersebut dalam kulkas"
@@ -6472,6 +6660,8 @@
           {
             "name": "Kangkung Akar / Water Spinach",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Sayuran ini memiliki banyak kandungan vitamin A, vitamin C, dan B yang dapat membantu pencegahan anemia dan diabetes.",
               "Simpan Kangkung didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -6534,6 +6724,8 @@
           {
             "name": "Kacang Panjang / Long Bean",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Kacang Panjang adalah salah satu sayuran yang baik untuk dikonsumsi dan dapat membantu mecegah diabetes dan memelihara fungsi jantung. Kacang panjang sendiri banyak mengandung vitamin B1 dan B2, serta fosfor.",
               "Simpan Kacang Panjang didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -6603,6 +6795,8 @@
           {
             "name": "Daun Kelor / Moringa",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Daun kelor memiliki banyak kandungan mineral, asam amino, dan vitamin A, vitamin C, serta vitamin E. Dengan mengonsumsi moringa dapat membantu menangkal radikal bebas, menurunkan kadar gula darah, serta menjaga sistem kekebalan tubuh .",
               "Pilah dan petik Daun Kelor, kemudian simpan Daun Kelor didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -6672,6 +6866,8 @@
           {
             "name": "Edamame",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Edamame memiliki kandungan protein dan karbohidrat yang tinggi yang mampu membantu menurunkan risiko kanker payudara dan prostart, depresi, dan penyakit diabetes.",
               "Simpan Edamame didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
@@ -6741,6 +6937,8 @@
           {
             "name": "Jeruk Limau",
             "productCategory": "Vegetables",
+            "minPemesanan":"1 buah",
+            "kondisi":"baru",
             "descriptions": [
               "Jeruk Limau adalah salah satu bahan wajib yang ada pada sambal. Nutrisi yang terkandung pada Jeruk Limau diantaranya yaitu vitamin A, vitamin C, folat, kalium, dan kaya antioksidan.",
               "Simpan Jeruk Limau didalam plastik atau wadah yang kering dan kedap udara. Letakkan wadah tersebut dalam kulkas."
